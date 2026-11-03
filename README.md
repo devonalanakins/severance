@@ -12,7 +12,7 @@ SEVERANCE is a parked ANEVUM family creative project. The prototypes below are p
 
 ## Source provenance
 
-The Godot source snapshot comes from [anevum-web draft PR #788](https://github.com/anevum/anevum-web/pull/788), commit `bbf0579a88e6c7229cb1f2eb492812c3c2a473ea`. The original branch and its commit history remain in that repository; the snapshot does not reproduce those commits as ancestors. The prototype README and standalone verification workflows adapt repository-relative paths. The workflows do not deploy.
+The Godot source snapshot comes from [anevum-web draft PR #788](https://github.com/devonalanakins/anevum-web/pull/788), commit `bbf0579a88e6c7229cb1f2eb492812c3c2a473ea`. The original branch and its commit history remain in that repository; the snapshot does not reproduce those commits as ancestors. The prototype README and standalone verification workflows adapt repository-relative paths. The workflows do not deploy.
 
 The lab source was recovered from the V0.3 development archive. Generated outputs, databases and the archive manifest are not included; the original archive remains the reference for those artifacts. Each project retains its MIT license. Review the relationship between these independent experiments before integrating them.
 
