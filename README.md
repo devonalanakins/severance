@@ -1,4 +1,10 @@
+<p align="center"><img src=".github/assets/readme-hero.svg" alt="Original Severance project illustration" width="100%" /></p>
+
 # TRANSCOSMIC: SEVERANCE
+
+> **Public documentation note · November 3, 2026:** Parked preproduction prototypes and research experiments. The game and world-state lab are not a released or integrated multiplayer experience.
+
+[Prototype](prototype-001/README.md) · [World-state lab](worldstate-lab/README.md)
 
 SEVERANCE is a parked ANEVUM family creative project. The prototypes below are preserved for possible future work; there is no current release or active development commitment. It is not a finished game or public multiplayer service.
 
